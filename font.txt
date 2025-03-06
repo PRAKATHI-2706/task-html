@@ -1,0 +1,38 @@
+<div style="text-align: center;">
+            <h2>Meet Our Advisors!</h2>
+        </div>
+        <div style="padding-top: 70px;">
+            <div style="padding-left: 150px"><img src="mg1.png" alt="">
+                <div style="display: flex; text-align: left;">
+                    <img src="crown.png" alt="">
+                    <h6>Specialized in Financial Planning</h6>
+                    <button class="star">
+                        <h4>Antonio J Redondo Plata</h4><img style=" color: aliceblue;" src="Star 1.png" alt="">4.2
+                    </button>
+                </div>
+                <div style="display: flex;padding: 10px;">
+                    <img style="padding-right: 10px;" src="msg.png" alt="">
+                    <p style="gap: 10px;"> 5 Years Experience</p>
+                </div>
+            </div>
+            <div><img src="mg2.png" alt="">
+                <div style="display: flex;">
+                    <img src="crown.png" alt="">
+                    <h6>Specialized in Credit Advise</h6>
+                </div>
+                <div style="display: flex;padding: 10px;">
+                    <img style="padding-right: 10px;" src="msg.png" alt="">
+                    <p style="gap: 10px;"> 2 Years Experience</p>
+                </div>
+            </div>
+            <div><img style="padding-right: 70px;" src="mg3.png" alt="">
+                <div style="display: flex;">
+                    <img src="crown.png" alt="">
+                    <h6>Specialized in Portfolio Management </h6>
+                </div>
+                <div style="display: flex;padding: 10px;">
+                    <img style="padding-right: 10px;" src="msg.png" alt="">
+                    <p style="gap: 10px;"> 6 Years Experience</p>
+                </div>
+            </div>
+        </div>
