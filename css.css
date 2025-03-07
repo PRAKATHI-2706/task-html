@@ -47,15 +47,15 @@ body{
 }
 .login {
     background: transparent;
-    color: #5A7FFF;
-    border: 2px solid #5A7FFF;
+    color:#5978FF;
+    border: 2px solid #5978FF;
     border-radius: 15px;  
     padding: 8px 25px;  
   }
   
 
 .get-started {
-    background-color: #007bff;
+    background-color: #5978FF;
     color: white;
     border: none;
     border-radius: 20px;
@@ -89,9 +89,9 @@ body{
 }
 
 .epl{
-    background: #5A7FFF;
+    background:#5978FF;
     color: white;
-    border-radius: 10px; 
+    border-radius: 10px;
     border:none;
     height: 40px;
     width: 150px;
@@ -110,7 +110,7 @@ body{
     background-color: rgb(176, 223, 176);
     border-radius: 10px;
     border: none;
-    width: 40px;
+    width: 50px;
     color: green;
 }
 .mid{
